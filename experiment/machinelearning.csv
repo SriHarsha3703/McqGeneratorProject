@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning?,a: The study of artificial intelligence concerned with the development and study of statistical algorithms | b: The study of natural language processing | c: The study of computer vision | d: The study of email filtering,a
+Which field has recently surpassed many previous approaches in performance in machine learning?,a: Natural language processing | b: Computer vision | c: Artificial neural networks | d: Speech recognition,c
+What is another name for machine learning when applied to business problems?,a: Artificial intelligence | b: Predictive analytics | c: Data mining | d: Statistical algorithms,b
+What provides the mathematical foundations of machine learning?,a: Data mining | b: Mathematical optimization methods | c: Exploratory data analysis | d: Unsupervised learning,b
+Which framework provides a theoretical viewpoint for describing machine learning?,a: Data mining | b: Exploratory data analysis | c: Probably approximately correct (PAC) learning | d: Statistical algorithms,c
